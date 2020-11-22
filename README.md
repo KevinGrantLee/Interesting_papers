@@ -10,7 +10,7 @@ Generalization
 
 - [THE DEEP BOOTSTRAP: GOOD ONLINE LEARNERS ARE GOOD OFFLINE GENERALIZERS](https://arxiv.org/pdf/2010.08127.pdf)
 - [Understanding the Failure Modes of Out-of-Distribution Generalization](https://arxiv.org/pdf/2010.15775.pdf)
-- [Learning and Generalization in Overparameterized Neural Networks, Going Beyond Two Layers (Zhu, 2019)](https://papers.nips.cc/paper/2019/file/62dad6e273d32235ae02b7d321578ee8-Paper.pdf)
+- [Learning and Generalization in Overparameterized Neural Networks, Going Beyond Two Layers (Zhu, 2019)](https://arxiv.org/pdf/1811.04918.pdf)
 
 Optimization
 - [Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/pdf/1905.02175.pdf)
