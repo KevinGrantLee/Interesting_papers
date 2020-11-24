@@ -16,7 +16,7 @@ Generalization
 Optimization
 - [Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/pdf/1905.02175.pdf)
 - [Neural Tangent Kernel: Convergence and Generalization in Neural Networks (Jacot, 2018)](https://arxiv.org/pdf/1806.07572.pdf)
- - [My notes](https://www.overleaf.com/read/jjqbhpjthbyn)
+  - [My notes](https://www.overleaf.com/read/jjqbhpjthbyn)
 
 Gradient Descent
 - [GRADIENT DESCENT PROVABLY OPTIMIZES OVER-PARAMETERIZED NEURAL NETWORKS (Du, 2019)](https://arxiv.org/pdf/1810.02054.pdf)
