@@ -20,8 +20,15 @@ Optimization
 Gradient Descent
 - [GRADIENT DESCENT PROVABLY OPTIMIZES OVER-PARAMETERIZED NEURAL NETWORKS (Du, 2019)](https://arxiv.org/pdf/1810.02054.pdf)
 - [Gradient Descent Finds Global Minima of Deep Neural Networks (Du, 2019)](http://proceedings.mlr.press/v97/du19c/du19c.pdf)
+- [Gradient Starvation:A Learning Proclivity in Neural Networks (Pezeshki,2020)](https://arxiv.org/pdf/2011.09468v1.pdf)
 
 Network Design
+
+
+HyperNetworks
+- [Principled Weight Initialization for Hypernetworks (Chang, 2020)](https://openreview.net/pdf?id=H1lma24tPB)
+- [On the Modularity of Hypernetworks (Galanti,2020)](https://arxiv.org/pdf/2002.10006)
+- [On Infinite-Width Hypernetworks (Littwin, 2020)](https://arxiv.org/pdf/2003.12193)
 
 
 # Computational Imaging
