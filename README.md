@@ -7,6 +7,7 @@
 - [Understanding the Neural Tangent Kernel](https://rajatvd.github.io/NTK/)
 - [Neural Tangent Kernel (NTK) Made Practical (Hu, 2020)](https://ins.sjtu.edu.cn/files/paper/20200722191346_ntk_wei_hu.pdf)
 - [Theory of Deep Learning Seminars @ Northwestern](https://www.ideal.northwestern.edu/special-quarters/fall-2020/)
+  - [Learning Wide Neural Networks: Polylogarithmic Over-parameterization and A Mean Field Perspective (Quanquan Gu)](https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bb143196-05db-4349-8825-ac4d00dcaa4c)
 
 Generalization
 
