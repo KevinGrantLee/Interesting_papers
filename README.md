@@ -30,6 +30,7 @@ Network Design
 
 
 HyperNetworks
+- [Hypernetworks (Ha, 2016)](https://arxiv.org/pdf/1609.09106)
 - [Principled Weight Initialization for Hypernetworks (Chang, 2020)](https://openreview.net/pdf?id=H1lma24tPB)
 - [On the Modularity of Hypernetworks (Galanti,2020)](https://arxiv.org/pdf/2002.10006)
 - [On Infinite-Width Hypernetworks (Littwin, 2020)](https://arxiv.org/pdf/2003.12193)
