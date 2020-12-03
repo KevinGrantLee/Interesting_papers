@@ -6,6 +6,7 @@
 - [NYU MathsDL-spring19](https://joanbruna.github.io/MathsDL-spring19/)
 - [Understanding the Neural Tangent Kernel](https://rajatvd.github.io/NTK/)
 - [Neural Tangent Kernel (NTK) Made Practical (Hu, 2020)](https://ins.sjtu.edu.cn/files/paper/20200722191346_ntk_wei_hu.pdf)
+- [Theory of Deep Learning Seminars @ Northwestern](https://www.ideal.northwestern.edu/special-quarters/fall-2020/)
 
 Generalization
 
