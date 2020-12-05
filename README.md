@@ -21,6 +21,9 @@ Optimization
   - [My notes](https://www.overleaf.com/read/jjqbhpjthbyn)
 - [(Li, 2018)]()
   - [My notes]()
+- [Investigating Learning in Deep Neural Networks
+using Layer-Wise Weight Change (Agrawal, 2020)](https://arxiv.org/pdf/2011.06735.pdf)
+  - Deeper layers change faster than shallower layers
 
 Gradient Descent
 - [GRADIENT DESCENT PROVABLY OPTIMIZES OVER-PARAMETERIZED NEURAL NETWORKS (Du, 2019)](https://arxiv.org/pdf/1810.02054.pdf)
