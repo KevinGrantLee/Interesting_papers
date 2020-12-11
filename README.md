@@ -9,6 +9,9 @@
 - [Theory of Deep Learning Seminars @ Northwestern](https://www.ideal.northwestern.edu/special-quarters/fall-2020/)
   - [Learning Wide Neural Networks: Polylogarithmic Over-parameterization and A Mean Field Perspective (Quanquan Gu)](https://northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bb143196-05db-4349-8825-ac4d00dcaa4c)
 
+Representation Learning
+- [On the Binding Problem in Artifical Neural Networks (Greff, 2020)](https://arxiv.org/pdf/2012.05208.pdf)
+
 Generalization
 
 - [THE DEEP BOOTSTRAP: GOOD ONLINE LEARNERS ARE GOOD OFFLINE GENERALIZERS](https://arxiv.org/pdf/2010.08127.pdf)
