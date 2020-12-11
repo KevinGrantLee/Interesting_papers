@@ -1,5 +1,4 @@
 # Deep Learning
-# Representation Learning
 
 - [CVPR17 Deep Learning Math Tutorial](http://www.vision.jhu.edu/tutorials/CVPR17-Tutorial-Math-Deep-Learning.htm)
 - [JHU 2018 Deep Learning Math Tutorial](http://cis.jhu.edu/~rvidal/talks/learning/Tutorial-Math-Deep-Learning-2018.pdf)
