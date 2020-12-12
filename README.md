@@ -28,6 +28,7 @@ Optimization
 using Layer-Wise Weight Change (Agrawal, 2020)](https://arxiv.org/pdf/2011.06735.pdf)
   - Deeper layers change faster than shallower layers
   - Does this have any ramifications on transfer learning practice? (Freeze inital layers and retrain classifier)
+  - Greg Yang says [here](https://www.youtube.com/watch?v=6tA7r7Y5vUM&feature=emb_title) around 26:00 that later layers have larger gradient than earlier layers. Which would explain this.
 
 Gradient Descent
 - [GRADIENT DESCENT PROVABLY OPTIMIZES OVER-PARAMETERIZED NEURAL NETWORKS (Du, 2019)](https://arxiv.org/pdf/1810.02054.pdf)
